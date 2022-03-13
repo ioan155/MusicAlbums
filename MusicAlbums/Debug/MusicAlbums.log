@@ -1,0 +1,21 @@
+﻿  Album.cpp
+  Controller.cpp
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.h(62,22): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.h(62,22): warning C4018: '<': signed/unsigned mismatch
+  Repository.cpp
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.h(62,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.cpp(67,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.cpp(85,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.cpp(97,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.cpp(105,22): warning C4018: '<': signed/unsigned mismatch
+  Soundtrack.cpp
+  Standard.cpp
+  UI.cpp
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.h(62,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Ionut\source\repos\MusicAlbums\MusicAlbums\Repository.cpp(24): warning C4715: 'Repository::getPositionOfObject': not all control paths return a value
+  MusicAlbums.vcxproj -> C:\Users\Ionut\source\repos\MusicAlbums\Debug\MusicAlbums.exe
